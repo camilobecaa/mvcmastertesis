@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Files</title>
+</head>
+<body>
+    <h1>Upload CSV and IFC Files</h1>
+    <form action="/process" method="post" enctype="multipart/form-data">
+        <label for="csv_file">CSV File:</label>
+        <input type="file" name="csv_file" id="csv_file" accept=".csv"><br><br>
+        <label for="ifc_file">IFC File:</label>
+        <input type="file" name="ifc_file" id="ifc_file" accept=".ifc"><br><br>
+        <label for="uri">Neo4j URI:</label>
+        <input type="text" name="uri" id="uri"><br><br>
+        <label for="user">Neo4j User:</label>
+        <input type="text" name="user" id="user"><br><br>
+        <label for="password">Neo4j Password:</label>
+        <input type="password" name="password" id="password"><br><br>
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>

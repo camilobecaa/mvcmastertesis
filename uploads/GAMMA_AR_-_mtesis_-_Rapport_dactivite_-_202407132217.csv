@@ -1,0 +1,10 @@
+Original Category;Original Object ID;Object Name;Status;Updated By;Updated At;IFC/GAMMA Object ID;GAMMA Category;Original Storey
+IfcWall;3o11Gt4cz1dAvhJX3pjZAt;Basiswand:Stahlbeton 200:2497076;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T10:19:52.044Z;3o11Gt4cz1dAvhJX3pjZAt;IfcWall;
+IfcOpeningElement;3cSLDwBbY6XIEEwY$rl1vk;Basiswand:Stahlbeton 200:2507779;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T20:16:40.044Z;3cSLDwBbY6XIEEwY$rl1vk;IfcOpeningElement;
+IfcSite;3xPXXKA_D5qvpgR4yatGJI;Oberfläche:2525189;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T20:16:29.292Z;3xPXXKA_D5qvpgR4yatGJI;IfcSite;
+IfcOpeningElement;0mEcm4PjSTeZD5qxWhaV4l;Basiswand:Stahlbeton 200:2508292;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T10:20:07.059Z;0mEcm4PjSTeZD5qxWhaV4l;IfcOpeningElement;
+IfcSlab;0pID_6E5D4zP33n7Oap1wQ;Basisdach:Flachdachaufbau begrünt Nachhaltiges Baumanagement:2510159;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T20:16:33.171Z;0pID_6E5D4zP33n7Oap1wQ;IfcSlab;
+IfcWall;0pID_6E5D4zP33n7Gap1NH;Basiswand:Stahlbeton 200:2508292;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T10:19:45.498Z;0pID_6E5D4zP33n7Gap1NH;IfcWall;
+IfcWall;0pID_6E5D4zP33n7Gap1U0;Basiswand:Stahlbeton 200:2507861;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T10:19:40.732Z;0pID_6E5D4zP33n7Gap1U0;IfcWall;
+IfcWall;0pID_6E5D4zP33n7Gap1VM;Basiswand:Stahlbeton 200:2507779;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T20:16:23.104Z;0pID_6E5D4zP33n7Gap1VM;IfcWall;
+IfcOpeningElement;1_GowB8cEkHjDz8_IaMFTA;Basiswand:Stahlbeton 200:2507779;Solved;camilo.bedoya@gamma-ar.com;2024-07-13T20:16:49.959Z;1_GowB8cEkHjDz8_IaMFTA;IfcOpeningElement;
