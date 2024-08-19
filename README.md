@@ -13,7 +13,7 @@ This application is designed to improve data interoperability within the Archite
 
 ## System Requirements
 
-- **Python 3.7+**
+- **Python 3.11+**
 - **Flask**: For web development and routing.
 - **IfcOpenShell**: For extracting and processing IFC files.
 - **SPARQL Anything**: For querying non-RDF data as RDF.
@@ -57,7 +57,7 @@ This application is designed to improve data interoperability within the Archite
     ```
 
 2. **File Storage**:
-    - Ensure that the `uploads` folder exists in the root directory for storing uploaded files.
+    - Ensure the `uploads` folder exists in the root directory for storing uploaded files.
 
 ## Usage
 
@@ -67,7 +67,7 @@ This application is designed to improve data interoperability within the Archite
     ```
 
 2. **Access the Application**:
-    - Open your web browser and navigate to `http://localhost:5000`.
+    - Open your web browser and navigate to `(http://127.0.0.1:5000)`.
     - Upload the CSV and IFC files through the provided interface.
     - Enter your Neo4j credentials to connect to the database.
 
@@ -76,11 +76,6 @@ This application is designed to improve data interoperability within the Archite
 
 4. **View Results**:
     - The results will be displayed on the web interface, showing the calculated costs and other relevant information.
-
-## UML Diagrams
-
-- **Structural Diagram**: Provides an overview of the application's architecture.
-- **Behavioral Diagram**: Illustrates the flow of data and user interactions.
 
 ## Contributing
 
@@ -98,4 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please contact [Your Name](mailto:your.email@example.com).
+For any questions or suggestions, please contact [Camilo Bedoya](camilobc97@gmail.com).
